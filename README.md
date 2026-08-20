@@ -47,10 +47,4 @@ pip install -r requirements.txt
 streamlit run dashboard/dashboard.py
 ```
 
-4. Buka alamat lokal yang ditampilkan Streamlit (umumnya `http://localhost:8501`).
-
-## Catatan Sebelum Submission
-
-- Isi **Nama, Email, dan ID Dicoding** pada bagian paling atas `notebook.ipynb`.
-- Notebook sudah dieksekusi dan menyimpan output analisis/visualisasi.
-- Jika dashboard sudah dideploy ke Streamlit Community Cloud, ganti isi `url.txt` dengan URL aplikasi Anda.
+4. Buka alamat yang ditampilkan Streamlit https://taopik-bike-sharing.streamlit.app/.
